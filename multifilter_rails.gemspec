@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["hi@tommyp.org"]
   s.homepage    = "http://tommyp.github.io/multifilter/"
   s.summary     = "Multifilter lets you filter a table based on mutliple inputs."
-  s.description = "By matching an input to each column, we can filter rows in a table based on the value of an input, with the input corresponding to and individual column."
+  s.description = "Multifilter matches an input to each column in table, letting the user filter the table based on multiple inputs."
   s.license  = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
