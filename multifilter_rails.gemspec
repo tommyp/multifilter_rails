@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = MultifilterRails::VERSION
   s.authors     = ["Tommy Palmer"]
   s.email       = ["hi@tommyp.org"]
-  s.homepage    = "http://tommyp.github.io/multifilter/"
+  s.homepage    = "http://github.com/tommyp/multifilter_rails"
   s.summary     = "Multifilter lets you filter a table based on mutliple inputs."
   s.description = "Multifilter matches an input to each column in table, letting the user filter the table based on multiple inputs."
   s.license  = "MIT"
